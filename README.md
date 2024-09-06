@@ -16,7 +16,7 @@ These numbers are typically used for testing purposes, such as verifying the fun
 
 
 
-    <p align="center"> [DOWNLOAD](https://github.com/wapslaneile/credit-card-generator/releases/download/CC-Gen/CardGen.zip) 
+    <p align="center"> [DOWNLOAD](../../releases) 
   <br>
   <hr style="border-radius: 2%; margin-top: 45px; margin-bottom: 50px;" noshade="" size="20" width="98%">
 </p>
